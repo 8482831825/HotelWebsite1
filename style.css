@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#hero{
+    color: white;
+    height: 100vh;
+    background-image: url("./pexels-pixabay-258154.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h2{
+    color: black;
+}
+h6{
+    color: black;
+}
+.my-card{
+    width: 20rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 0.8rem;
+} 
+#about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.bg-1{
+   
+    background: url("./pexels-la-miko-3754595.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+   
+}
+.bg-2{
+    background-image: url("./pexels-ksenia-chernaya-3965505.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+}
+.bg-3{
+    background-image: url("./pexels-courtney-ra-12534079.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+}
+.bg-4{
+    background-image: url("./pexels-andrea-davis-2873951.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+}
+.bi-1{
+    background-image: url("./pexels-tobias-bjørkli-1819631.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 30rem;
+}
+.bi-2{
+    background-image: url("./pexels-rasik-1416901.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 30rem;
+}
+.bi-3{
+    background-image: url("./pexels-yaroslav-shuraev-1834399.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 30rem;
+}
+.rc-1{
+    background-image: url("./pexels-elina-sazonova-1907057.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 30rem;
+}
+.rc-2{
+    background-image: url("./pexels-zukiman-mohamad-21787.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 30rem;
+}
